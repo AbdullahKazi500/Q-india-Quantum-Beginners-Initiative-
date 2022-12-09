@@ -6,7 +6,8 @@ Today, IBM Quantum makes real quantum hardware -- a tool scientists only began t
 
 These machines are very different from the classical computers that have been around for more than half a century. Here's a primer on this transformative technology.
 ---
-![qindia](https://user-images.githubusercontent.com/75779966/206704327-4e0b86cd-aa1d-4298-9699-91b81126a911.PNG)
+![The-cat-entangler-and-cat-disentangler-operations-for-a-5-qubit-system-are-shown-in](https://user-images.githubusercontent.com/75779966/206704492-e87f78b2-b8dd-485c-9236-c02c939fc957.png)
+
 
 https://www.forbes.com/sites/moorinsights/2022/12/07/ibm-on-track-to-achieve-quantum-advantage-by-2026-using-error-mitigation/
 
