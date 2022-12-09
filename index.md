@@ -6,7 +6,8 @@ Today, IBM Quantum makes real quantum hardware -- a tool scientists only began t
 
 These machines are very different from the classical computers that have been around for more than half a century. Here's a primer on this transformative technology.
 ---
-![waswee](https://user-images.githubusercontent.com/75779966/206706448-f3aff263-8ccf-49ea-84da-8efe9b0f6e35.PNG)
+![rspa](https://user-images.githubusercontent.com/75779966/206706825-2a14797a-0864-43dd-b5a5-b0f565704627.PNG)
+
 
 
 
